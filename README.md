@@ -1,6 +1,6 @@
-# **Salary Prediction using Regression Models 📊**  
+# **Analysing Regression Models 📊**  
 
-A machine learning project by **Pradeeshkumar-U** that explores various regression techniques to predict salaries based on factors like **Age, Gender, Education Level, Job Title, and Years of Experience**.  
+A machine learning project by **Pradeeshkumar-U** that explores various regression techniques and their suitabilty and workflow to predict salaries based on factors like **Age, Gender, Education Level, Job Title, and Years of Experience**.  
 
 ## **Models Used**  
 ✔️ **Multiple Linear Regression**  
