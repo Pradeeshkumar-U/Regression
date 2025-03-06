@@ -33,7 +33,7 @@ The goal is to compare different regression models to find the best approach for
 ## **How to Run**  
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/Pradeeshkumar-U/salary-prediction.git
+git clone https://github.com/Pradeeshkumar-U/Regression.git
 ```  
 2️⃣ Install required dependencies  
 ```bash
@@ -41,7 +41,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ```  
 3️⃣ Run the script  
 ```bash
-python salary_prediction.py
+python Main.py
 ```  
 
 ## **Results & Insights**  
